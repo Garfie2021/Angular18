@@ -11,5 +11,4 @@ import { SidemenuComponent } from "./sidemenu/sidemenu.component";
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'AngularTest';
 }
