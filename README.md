@@ -59,3 +59,30 @@ Visual Studio Code： 1.92.2
 
 ---
 
+## Angular18/Src5_Add_PRIME-NG/
+
+Steps to add a PrimeNG button in Angular.
+
+I installed the PrimeNG design framework and added a PrimeNG button to the Angular project created in Steps to add components and transition pages in Angular.
+
+Since animation is not necessary for business web apps, I turned off the button animation when adding a PrimeNG button this time.
+I made a video to show the difference between turning animation on and off.
+
+When developing business web applications with Angular, I recommend PrimeNG over Angular Material Design and NG Bootstrap as a design framework.
+The design of Angular Material Design does not look business-like.
+The design of NG Bootstrap looks business-like, but Angular's response speed is slow.
+The design of PrimeNG is closer to NG Bootstrap and looks business-like, it has more components than NG Bootstrap, it is free to use, and support is available for a fee.
+
+Click here for details on the PrimeNG button component.
+https://primeng.org/button
+
+Each version of the environment built this time.
+Angular： 18.2.3
+Node.js： 22.8.0
+PrimeNG： 17.18.10
+Visual Studio Code： 1.92.2
+
+[YouTube](https://youtu.be/k8bfBxyI1S0)
+[Source code explanation page](https://blog.unikktle.com/angular%e3%81%a7primeng%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e3%81%ae%e3%83%9c%e3%82%bf%e3%83%b3%e3%82%92%e8%bf%bd%e5%8a%a0%e3%81%99%e3%82%8b%e6%89%8b%e9%a0%86/)
+
+---
