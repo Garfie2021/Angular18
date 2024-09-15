@@ -1,11 +1,6 @@
-@WebApplication1_HostAddress = http://localhost:5012
+@WebApplication1_HostAddress = http://localhost:5068
 
-GET {{WebApplication1_HostAddress}}/todos/
-Accept: application/json
-
-###
-
-GET {{WebApplication1_HostAddress}}/todos/1
+GET {{WebApplication1_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
