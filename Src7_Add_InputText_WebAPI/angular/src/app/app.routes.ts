@@ -6,6 +6,7 @@ import { ProfileComponent } from './profile/profile.component';
 import { SettingsComponent } from './settings/settings.component';
 
 export const routes: Routes = [
+  { path: '', component: DashboardComponent },
   { path: 'home-component', component: HomeComponent },
   { path: 'enquiry-component', component: EnquiryComponent },
   { path: 'dashboard-component', component: DashboardComponent },
