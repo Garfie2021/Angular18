@@ -86,3 +86,26 @@ Visual Studio Code： 1.92.2
 [Source code explanation page](https://blog.unikktle.com/angular%e3%81%a7primeng%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e3%81%ae%e3%83%9c%e3%82%bf%e3%83%b3%e3%82%92%e8%bf%bd%e5%8a%a0%e3%81%99%e3%82%8b%e6%89%8b%e9%a0%86/)
 
 ---
+
+## Angular18/Src6_DefaultPageTransition/
+
+Steps to display specific components by default in Angular.
+
+A process to display specific components by default has been added to the Angular project created in Steps to add a PrimeNG-designed button in Angular.
+
+[YouTube](https://youtu.be/XRalDVEASb8)
+[Source code explanation page](https://blog.unikktle.com/angular%e3%81%a7%e7%89%b9%e5%ae%9a%e3%81%ae%e3%82%b3%e3%83%b3%e3%83%9d%e3%83%bc%e3%83%8d%e3%83%b3%e3%83%88%e3%82%92%e3%83%87%e3%83%95%e3%82%a9%e3%83%ab%e3%83%88%e8%a1%a8%e7%a4%ba%e3%81%99%e3%82%8b/)
+
+---
+
+## Angular18/Src7_GetString_WebAPI/
+
+Steps to check the WebAPI URL in ASP.NET Core Web API.
+
+This video shows the steps to check the URL of a controller implemented in ASP.NET Core Web API and reflect the URL in Angular source code.
+You can easily check the WebAPI request URL by running the WEBAPI and selecting "Try it out > Execute" in Swagger.
+
+[YouTube](https://youtu.be/Gj-XDLyV-cE)
+[Source code explanation page](https://blog.unikktle.com/asp-net-core-web-api-%e3%81%a7-webapi%e3%81%aeurl%e3%82%92%e7%a2%ba%e8%aa%8d%e3%81%99%e3%82%8b%e6%89%8b%e9%a0%86/)
+
+---
